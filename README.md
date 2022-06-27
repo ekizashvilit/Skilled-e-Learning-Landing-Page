@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./screenshot.jpg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Skilled e-learning landing page](https://ekizashvilit.github.io/Skilled-e-Learning-Landing-Page/)
 
 ## My process
 
